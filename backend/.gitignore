@@ -1,1 +1,30 @@
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Local environment
 .env
+
+# Database
+*.db
+*.sqlite3
+attendance.db
+
+# Virtual Environment
+venv/
+env/
+.venv/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+
+# Logs
+*.log
