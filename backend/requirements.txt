@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+opencv-python-headless
+websockets
+sqlalchemy
+psycopg2-binary
+redis
+python-dotenv
+email-validator
+# insightface  # commented out to speed up initial install, add later for actual AI
+# tensorflow   # same
